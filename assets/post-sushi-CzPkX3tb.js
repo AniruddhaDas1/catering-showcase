@@ -1,0 +1,1 @@
+var e=`/catering-showcase/assets/post-wedding-7kYxHXZO.jpg`,t=`/catering-showcase/assets/post-charcuterie-CvHzI67R.jpg`,n=`/catering-showcase/assets/post-garden-bTcRmxnL.jpg`,r=`/catering-showcase/assets/post-desserts-BiWPNIKW.jpg`,i=`/catering-showcase/assets/post-sushi-DeHD-F57.jpg`;export{e as a,t as i,r as n,n as r,i as t};

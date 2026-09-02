@@ -1,0 +1,1 @@
+var e=`/catering-showcase/assets/post-plating-C-ydpqzQ.jpg`;export{e as t};
